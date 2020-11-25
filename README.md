@@ -1,14 +1,15 @@
 # Gama: Pagina Covid19
- Desafio: Página de Notícias do COVID-19
- Olá, olá!
+ Desafio - COVID-19
+ 
 
-Todo mundo pronto para colocar a mão na massa? :)
+Gama Academy - Desafio: Página de Notícias do COVID-19
 
-Chegou a hora de vocês usarem tudo que aprenderam de HTML, CSS e GIT para construir uma landing page com as 6 melhores notícias sobre o COVID-19 na sua opinião. Para isso, vocês devem encontrar pelo menos dois tipos de notícia entre texto, vídeo e áudio.
+Escopo
 
+Construir uma landing page com as 6 melhores notícias sobre o COVID-19 na sua opinião. Para isso, vocês devem encontrar pelo menos dois tipos de notícia entre texto, vídeo e áudio.
 A página deve obrigatoriamente ter arquivos separados de HTML e CSS, ser hard coded (isso é, código proprietário seu, sem usar Bootstrap e ferramentas drag-and-drop como Wix) e estar em um repositório no GitHub.
 
-Além disso, criem um menu de navegação e as páginas respectivas de:
+Criar um menu de navegação e as páginas:
 
 - Home: as notícias mencionadas;
 
@@ -18,6 +19,6 @@ Além disso, criem um menu de navegação e as páginas respectivas de:
 
 - Saiba Mais: curadoria de fontes de onde você tirou essas notícias, para o caso da pessoa querer navegar e descobrir outras.
 
-Não é preciso ter domínio próprio e recomendamos o Netlify para hospedagem.
+Recomendado o Netlify para hospedagem.
 
-Bora lá? Então valendo! Esse desafio é individual, mas incentivamos que vocês troquem links entre si para feedbacks dos colegas <3
+
