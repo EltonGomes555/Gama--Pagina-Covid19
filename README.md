@@ -12,13 +12,13 @@ A página deve obrigatoriamente ter arquivos separados de HTML e CSS, ser hard c
 
 **Criar um menu de navegação e as páginas:**
 
-- Home: as notícias mencionadas;
+- **Home:** as notícias mencionadas;
 
-- Sobre: uma página do autor (você!) falando do seu background profissional, com link para linkedin;
+- **Sobre:** uma página do autor (você!) falando do seu background profissional, com link para linkedin;
 
-- Contato: um formulário onde os visitantes possam te procurar (ele não precisa ser hard coded, pode usar um form pronto de ferramentas de marketing)
+- **Contato:** um formulário onde os visitantes possam te procurar (ele não precisa ser hard coded, pode usar um form pronto de ferramentas de marketing)
 
-- Saiba Mais: curadoria de fontes de onde você tirou essas notícias, para o caso da pessoa querer navegar e descobrir outras.
+- **Saiba Mais:** curadoria de fontes de onde você tirou essas notícias, para o caso da pessoa querer navegar e descobrir outras.
 
 **Recomendado o Netlify para hospedagem.**
 
