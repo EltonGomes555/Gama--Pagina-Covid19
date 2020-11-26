@@ -1,16 +1,16 @@
 # Gama: Pagina Covid19
- Desafio - COVID-19
+ **Desafio - COVID-19**
  
 
-Gama Academy - Desafio: Página de Notícias do COVID-19
+**Gama Academy - Desafio: Página de Notícias do COVID-19**
 
-Escopo
+**Escopo**
 
 Construir uma landing page com as 6 melhores notícias sobre o COVID-19 na sua opinião. Para isso, vocês devem encontrar pelo menos dois tipos de notícia entre texto, vídeo e áudio.
 
 A página deve obrigatoriamente ter arquivos separados de HTML e CSS, ser hard coded (isso é, código proprietário seu, sem usar Bootstrap e ferramentas drag-and-drop como Wix) e estar em um repositório no GitHub.
 
-Criar um menu de navegação e as páginas:
+**Criar um menu de navegação e as páginas:**
 
 - Home: as notícias mencionadas;
 
@@ -20,6 +20,6 @@ Criar um menu de navegação e as páginas:
 
 - Saiba Mais: curadoria de fontes de onde você tirou essas notícias, para o caso da pessoa querer navegar e descobrir outras.
 
-Recomendado o Netlify para hospedagem.
+**Recomendado o Netlify para hospedagem.**
 
 
